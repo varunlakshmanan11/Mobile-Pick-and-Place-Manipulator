@@ -1,4 +1,5 @@
 # ENPM 662 Project 2
+# Mobile Pick and Place Manipulator
 - Varun Lakshmanan - 120169595
 - Nitish Ravisankar Raveendran - 120385506
 
