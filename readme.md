@@ -1,6 +1,6 @@
 # ENPM 662 Project 2
-  Varun Lakshmanan - 120169595
-  Nitish Ravisankar Raveendran
+  -Varun Lakshmanan - 120169595
+  -Nitish Ravisankar Raveendran - 120385506
 
 ## Overview
 Modeling a robot in solidworks and simulating it in ROS2 Gazebo.
