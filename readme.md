@@ -1,7 +1,14 @@
 # ENPM 662 Project 2
 # Mobile Pick and Place Manipulator
-- Varun Lakshmanan - 120169595 - varunl11@umd.edu
-- Nitish Ravisankar Raveendran - 120385506 - rrnitish@umd.edu
+- Varun Lakshmanan\
+  120169595\
+  varunl11@umd.edu\
+  https://github.com/varunlakshmanan11
+  
+- Nitish Ravisankar Raveendran\
+  120385506\
+  rrnitish@umd.edu\
+  https://github.com/Nitish05
 
 ## Overview
 Modeling a robot in solidworks and simulating it in ROS2 Gazebo.
