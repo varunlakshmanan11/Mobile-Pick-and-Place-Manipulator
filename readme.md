@@ -1,4 +1,3 @@
-
 ## Mobile Pick and Place Manipulator
 - Varun Lakshmanan\
   120169595\
