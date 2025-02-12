@@ -1,5 +1,5 @@
-# ENPM 662 Project 2
-# Mobile Pick and Place Manipulator
+
+## Mobile Pick and Place Manipulator
 - Varun Lakshmanan\
   120169595\
   varunl11@umd.edu\
