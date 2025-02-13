@@ -1,4 +1,4 @@
-### Mobile Pick and Place Manipulator
+## Mobile Pick and Place Manipulator
 ## Overview
 Modeling a robot in solidworks and simulating it in ROS2 Gazebo.
 This zip file has multiple packages. 
