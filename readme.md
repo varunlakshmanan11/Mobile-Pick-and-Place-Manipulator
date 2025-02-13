@@ -1,14 +1,4 @@
-## Mobile Pick and Place Manipulator
-- Varun Lakshmanan\
-  120169595\
-  varunl11@umd.edu\
-  https://github.com/varunlakshmanan11
-  
-- Nitish Ravisankar Raveendran\
-  120385506\
-  rrnitish@umd.edu\
-  https://github.com/Nitish05
-
+### Mobile Pick and Place Manipulator
 ## Overview
 Modeling a robot in solidworks and simulating it in ROS2 Gazebo.
 This zip file has multiple packages. 
@@ -80,5 +70,17 @@ This zip file has multiple packages.
   ```
   ros2 launch project2 debug.launch.py
   ```
+
+##Contributors
+
+- Varun Lakshmanan\
+  120169595\
+  varunl11@umd.edu\
+  https://github.com/varunlakshmanan11
+  
+- Nitish Ravisankar Raveendran\
+  120385506\
+  rrnitish@umd.edu\
+  https://github.com/Nitish05
 
 
