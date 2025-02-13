@@ -71,7 +71,7 @@ This zip file has multiple packages.
   ros2 launch project2 debug.launch.py
   ```
 
-##Contributors
+## Contributors
 
 - Varun Lakshmanan\
   120169595\
